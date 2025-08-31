@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\wwwroot\\uploads\\images_614b9761-f1e6-4689-8f63-4b6c1faf01be.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\images_614b9761-f1e6-4689-8f63-4b6c1faf01be.jpeg"
+    },
+    {
+      "Id": "E:\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\wwwroot\\uploads\\images_8b2eb63c-6429-4d8f-8e01-45733ea328fa.jpg",
+      "PackagePath": "staticwebassets\\uploads\\images_8b2eb63c-6429-4d8f-8e01-45733ea328fa.jpg"
+    },
+    {
+      "Id": "E:\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\wwwroot\\uploads\\images_90d83af4-d966-456d-a9f8-0d4a1003544b.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\images_90d83af4-d966-456d-a9f8-0d4a1003544b.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BloodBankWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BloodBankWebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BloodBankWebAPI.props",
+      "PackagePath": "build\\BloodBankWebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BloodBankWebAPI.props",
+      "PackagePath": "buildMultiTargeting\\BloodBankWebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BloodBankWebAPI.props",
+      "PackagePath": "buildTransitive\\BloodBankWebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

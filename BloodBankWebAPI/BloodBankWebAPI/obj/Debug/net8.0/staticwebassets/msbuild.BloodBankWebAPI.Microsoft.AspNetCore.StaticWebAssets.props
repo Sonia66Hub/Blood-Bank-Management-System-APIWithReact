@@ -1,0 +1,58 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images_614b9761-f1e6-4689-8f63-4b6c1faf01be.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BloodBankWebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BloodBankWebAPI</BasePath>
+      <RelativePath>uploads/images_614b9761-f1e6-4689-8f63-4b6c1faf01be.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5l0w7aez0u</Fingerprint>
+      <Integrity>+TnSYkowJ5s7C1J0wEWJ3Fd5COAajpB9qNpnL3E32GU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images_614b9761-f1e6-4689-8f63-4b6c1faf01be.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images_8b2eb63c-6429-4d8f-8e01-45733ea328fa.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BloodBankWebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BloodBankWebAPI</BasePath>
+      <RelativePath>uploads/images_8b2eb63c-6429-4d8f-8e01-45733ea328fa.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wdygnzei2u</Fingerprint>
+      <Integrity>FFX7oDnZP88iY3UNuhs0PNFkI+zw4J8xIc0c47Uot7I=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images_8b2eb63c-6429-4d8f-8e01-45733ea328fa.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images_90d83af4-d966-456d-a9f8-0d4a1003544b.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BloodBankWebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/BloodBankWebAPI</BasePath>
+      <RelativePath>uploads/images_90d83af4-d966-456d-a9f8-0d4a1003544b.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5l0w7aez0u</Fingerprint>
+      <Integrity>+TnSYkowJ5s7C1J0wEWJ3Fd5COAajpB9qNpnL3E32GU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\images_90d83af4-d966-456d-a9f8-0d4a1003544b.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

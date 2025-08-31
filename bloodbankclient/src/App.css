@@ -1,0 +1,17 @@
+/* src/App.css */
+/* Custom padding for the main content area to give some breathing room */
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Flexbox utilities for a sticky footer effect */
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+.flex-grow-1 {
+  flex-grow: 1;
+}
+
+/* Add any other app-specific styles here */

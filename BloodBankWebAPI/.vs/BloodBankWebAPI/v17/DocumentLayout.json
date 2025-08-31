@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\controllers\\bloodinventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\controllers\\bloodinventoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\controllers\\donationhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\controllers\\donationhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\controllers\\bloodgroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\controllers\\bloodgroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\controllers\\donorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\models\\dtos\\donordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\models\\dtos\\donordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\controllers\\receiverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\controllers\\receiverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\bloodbankwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\bloodbankwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\migrations\\20250720160037_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\migrations\\20250720160037_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\migrations\\20250721065239_two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\migrations\\20250721065239_two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|c:\\users\\administrator\\desktop\\bloodbankapiwithreact\\bloodbankapiwithreact\\bloodbankwebapi\\bloodbankwebapi\\migrations\\20250721063909_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC94DF6E-0BFF-4AF5-BDF7-51B822B41155}|BloodBankWebAPI\\BloodBankWebAPI.csproj|solutionrelative:bloodbankwebapi\\migrations\\20250721063909_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DonorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\DonorsController.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Controllers\\DonorsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\DonorsController.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Controllers\\DonorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:18:36.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Program.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:27:15.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\appsettings.json",
+              "RelativeToolTip": "BloodBankWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-20T15:27:56.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BloodGroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\BloodGroupsController.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Controllers\\BloodGroupsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\BloodGroupsController.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Controllers\\BloodGroupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:44:46.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BloodInventoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\BloodInventoriesController.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Controllers\\BloodInventoriesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\BloodInventoriesController.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Controllers\\BloodInventoriesController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwF8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:46:19.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonationHistoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\DonationHistoriesController.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Controllers\\DonationHistoriesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\DonationHistoriesController.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Controllers\\DonationHistoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:45:24.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DonorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Models\\DTOs\\DonorDTO.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Models\\DTOs\\DonorDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Models\\DTOs\\DonorDTO.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Models\\DTOs\\DonorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:14:07.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReceiversController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\ReceiversController.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Controllers\\ReceiversController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\ReceiversController.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Controllers\\ReceiversController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:45:51.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Models\\Donor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Models\\Donor.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Models\\Donor.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAiwIgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:30:27.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:11:41.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T15:28:54.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250721063909_one.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Migrations\\20250721063909_one.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Migrations\\20250721063909_one.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Migrations\\20250721063909_one.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Migrations\\20250721063909_one.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:39:09.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250721065239_two.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Migrations\\20250721065239_two.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Migrations\\20250721065239_two.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Migrations\\20250721065239_two.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Migrations\\20250721065239_two.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:52:39.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250720160037_init.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Migrations\\20250720160037_init.cs",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\Migrations\\20250720160037_init.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\Migrations\\20250720160037_init.cs",
+              "RelativeToolTip": "BloodBankWebAPI\\Migrations\\20250720160037_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:00:37.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BloodBankWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\BloodBankWebAPI.csproj",
+              "RelativeDocumentMoniker": "BloodBankWebAPI\\BloodBankWebAPI.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\BloodBankAPIWithReact\\BloodBankAPIWithReact\\BloodBankWebAPI\\BloodBankWebAPI\\BloodBankWebAPI.csproj",
+              "RelativeToolTip": "BloodBankWebAPI\\BloodBankWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T15:25:56.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

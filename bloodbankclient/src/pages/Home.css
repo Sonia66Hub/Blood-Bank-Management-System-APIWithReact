@@ -1,0 +1,76 @@
+/* src/pages/Home.css */
+
+/* Hero Section Styling */
+.home-hero-section {
+  background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+              url('/images/BloodBank.jpg') no-repeat center center; 
+  background-size: cover;
+  min-height: calc(100vh - 80px); 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  color: #fff;
+}
+
+/* Text Styling */
+.home-title {
+  font-weight: 700;
+  color:#FFD700; /* রক্তের রঙের মতো লাল */
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
+}
+
+.home-subtitle {
+  font-size: 1.5rem;
+  font-weight: 300;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #FFD700;
+  text-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+
+/* Custom Button Styling */
+.custom-button {
+  border-radius: 50px;
+  padding: 12px 30px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.custom-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+}
+
+.btn-danger.custom-button {
+  background-color: #dc3545;
+  border-color: #dc3545;
+  color: #fff;
+}
+
+.btn-outline-light.custom-button {
+  border-color: #fff;
+  color: #fff;
+}
+
+.btn-outline-light.custom-button:hover {
+  background-color: #fff;
+  color: #dc3545;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .home-title {
+    font-size: 2.5rem;
+  }
+  .home-subtitle {
+    font-size: 1.2rem;
+  }
+  .custom-button {
+    width: 100%;
+  }
+}
