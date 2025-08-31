@@ -26,16 +26,14 @@ A modern **full-stack web application** to manage blood bank operations—donor 
 ---
 ## 🎥 Demo Video  
 👉 [Watch Demo Video](https://youtu.be/hCxrEmwsWFg)  
-
-[![Watch the demo video](assets/screenshots/video-thumbnail.png)](https://youtu.be/hCxrEmwsWFg)  
-
+ 
 ---
 
 ## 🖼️ Screenshots  
 
-| Dashboard | Donor List | Request Page |
-|-----------|------------|--------------|
-| ![Dashboard](assets/c:\Users\SHAJIB\Downloads\Screenshot 2025-08-31 051615/dashboard.png) | ![Donor List](assets/screenshots/donor-list.png) | ![Request Page](assets/screenshots/request-page.png) |  
+| Dashboard |
+|-----------|
+| ![Dashboard](assets/c:\Users\SHAJIB\Downloads\Screenshot 2025-08-31 051615/dashboard.png)  
 
 ---
 ## ⚙️ Setup & Installation  
