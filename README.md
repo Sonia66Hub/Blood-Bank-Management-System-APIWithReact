@@ -1,24 +1,7 @@
 # 🩸 Blood Bank Management – Full Stack Web Application  
 
-## 🎥 Demo Video  
-👉 [Watch Demo Video](https://youtu.be/hCxrEmwsWFg)  
-
-[![Watch the demo video](assets/screenshots/video-thumbnail.png)](https://youtu.be/hCxrEmwsWFg)  
-
----
-
-## 🖼️ Screenshots  
-
-| Dashboard | Donor List | Request Page |
-|-----------|------------|--------------|
-| ![Dashboard](assets/c:\Users\SHAJIB\Downloads\Screenshot 2025-08-31 051615.png/dashboard.png) | ![Donor List](assets/screenshots/donor-list.png) | ![Request Page](assets/screenshots/request-page.png) |  
-
----
-
 ## 📂 Project Overview  
 A modern **full-stack web application** to manage blood bank operations—donor registration, blood stock tracking, and request handling—built with a **C# ASP.NET Core Web API** backend and a **React + Vite** frontend.  
-
----
 
 ## 🏗️ Tech Stack  
 
@@ -41,7 +24,20 @@ A modern **full-stack web application** to manage blood bank operations—donor 
 - Enforced coding standards via ESLint  
 
 ---
+## 🎥 Demo Video  
+👉 [Watch Demo Video](https://youtu.be/hCxrEmwsWFg)  
 
+[![Watch the demo video](assets/screenshots/video-thumbnail.png)](https://youtu.be/hCxrEmwsWFg)  
+
+---
+
+## 🖼️ Screenshots  
+
+| Dashboard | Donor List | Request Page |
+|-----------|------------|--------------|
+| ![Dashboard](assets/c:\Users\SHAJIB\Downloads\Screenshot 2025-08-31 051615/dashboard.png) | ![Donor List](assets/screenshots/donor-list.png) | ![Request Page](assets/screenshots/request-page.png) |  
+
+---
 ## ⚙️ Setup & Installation  
 
 ### 🔹 1. Clone Repository  
