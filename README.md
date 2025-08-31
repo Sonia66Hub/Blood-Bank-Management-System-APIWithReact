@@ -33,7 +33,8 @@ A modern **full-stack web application** to manage blood bank operations—donor 
 
 | Dashboard |
 |-----------|
-| ![Dashboard](assets/c:\Users\SHAJIB\Downloads\Screenshot 2025-08-31 051615/dashboard.png)  
+| ![Dashboard](<img width="1366" height="768" alt="Screenshot 2025-08-31 051615" src="https://github.com/user-attachments/assets/5744ab50-24a7-46f0-a36d-c1dd62787535" />
+.png)  
 
 ---
 ## ⚙️ Setup & Installation  
